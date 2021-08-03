@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.exe
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.deps.json
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.runtimeconfig.json
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.dll
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\bin\Debug\netcoreapp3.1\DECToBIN.pdb
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\obj\Debug\netcoreapp3.1\DECToBIN.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\obj\Debug\netcoreapp3.1\DECToBIN.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\obj\Debug\netcoreapp3.1\DECToBIN.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\obj\Debug\netcoreapp3.1\DECToBIN.dll
+C:\Users\i7 boy\source\repos\DECToBIN\DECToBIN\obj\Debug\netcoreapp3.1\DECToBIN.pdb

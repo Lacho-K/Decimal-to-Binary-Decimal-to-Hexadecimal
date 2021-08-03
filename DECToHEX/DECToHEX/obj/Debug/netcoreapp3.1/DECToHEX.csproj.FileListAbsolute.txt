@@ -1,0 +1,10 @@
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.exe
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.deps.json
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.runtimeconfig.json
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.dll
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\bin\Debug\netcoreapp3.1\DECToHEX.pdb
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\obj\Debug\netcoreapp3.1\DECToHEX.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\obj\Debug\netcoreapp3.1\DECToHEX.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\obj\Debug\netcoreapp3.1\DECToHEX.dll
+C:\Users\i7 boy\source\repos\DECToHEX\DECToHEX\obj\Debug\netcoreapp3.1\DECToHEX.pdb
